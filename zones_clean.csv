@@ -1,0 +1,1261 @@
+wilaya_code,wilaya_name,commune_name,zone
+01,Adrar,Adrar,0
+01,Adrar,Akabli,0
+01,Adrar,Aoulef,0
+01,Adrar,Bouda,0
+01,Adrar,Fenoughil,0
+01,Adrar,In Zghmir,0
+01,Adrar,Ouled Ahmed Timmi,0
+01,Adrar,Reggane,0
+01,Adrar,Sali,0
+01,Adrar,Sebaa,0
+01,Adrar,Tamantit,0
+01,Adrar,Tamest,0
+01,Adrar,Timekten,0
+01,Adrar,Tit,0
+01,Adrar,Tsabit,0
+01,Adrar,Zaouiet Kounta,0
+02,Chlef,Abou El Hassane,III
+02,Chlef,Ain Merane,III
+02,Chlef,Benairia,III
+02,Chlef,Beni  Bouattab,III
+02,Chlef,Beni Haoua,III
+02,Chlef,Beni Rached,III
+02,Chlef,Boukadir,III
+02,Chlef,Boukadir,IIb
+02,Chlef,Bouzeghaia,III
+02,Chlef,Breira,III
+02,Chlef,Chettia,III
+02,Chlef,Chlef,III
+02,Chlef,Dahra,III
+02,Chlef,El Hadjadj,III
+02,Chlef,El Karimia,III
+02,Chlef,El Karimia,IIb
+02,Chlef,El Marsa,III
+02,Chlef,Harchoun,III
+02,Chlef,Harchoun,IIb
+02,Chlef,Herenfa,III
+02,Chlef,Labiod Medjadja,III
+02,Chlef,Moussadek,III
+02,Chlef,Oued Fodda,III
+02,Chlef,Oued Goussine,III
+02,Chlef,Oued Sly,III
+02,Chlef,Oued Sly,IIb
+02,Chlef,Ouled Abbes,III
+02,Chlef,Ouled Ben Abdelkader,III
+02,Chlef,Ouled Ben Abdelkader,IIa
+02,Chlef,Ouled Fares,III
+02,Chlef,Oum Drou,III
+02,Chlef,Sendjas,III
+02,Chlef,Sendjas,IIb
+02,Chlef,Sidi Abderrahmane,III
+02,Chlef,Sidi Akkacha,III
+02,Chlef,Sobha,III
+02,Chlef,Tadjena,III
+02,Chlef,Talassa,III
+02,Chlef,Taougrit,III
+02,Chlef,Tenes,III
+02,Chlef,Zeboudja,III
+03,Laghouat,Aflou,I
+03,Laghouat,Ain Madhi,I
+03,Laghouat,Ain Sidi Ali,I
+03,Laghouat,Benacer Benchohra,I
+03,Laghouat,Brida,I
+03,Laghouat,El Assafia,I
+03,Laghouat,El Beidha,I
+03,Laghouat,El Ghicha,I
+03,Laghouat,El Haouaita,I
+03,Laghouat,Gueltat Sidi Saad,I
+03,Laghouat,Hadj Mechri,I
+03,Laghouat,Hassi Delaa,I
+03,Laghouat,Hassi R'mel,I
+03,Laghouat,Kheneg,I
+03,Laghouat,Ksar El Hirane,I
+03,Laghouat,Laghouat,I
+03,Laghouat,Oued M'zi,I
+03,Laghouat,Oued Morra,I
+03,Laghouat,Sebgag,I
+03,Laghouat,Sidi Bouzid,I
+03,Laghouat,Sidi Makhlouf,I
+03,Laghouat,Tadjemout,I
+03,Laghouat,Tadjrouna,I
+03,Laghouat,Taouiala,I
+04,Oum El Bouaghi,Ain Babouche,I
+04,Oum El Bouaghi,Ain Beida,I
+04,Oum El Bouaghi,Ain Diss,I
+04,Oum El Bouaghi,Ain Fekroun,I
+04,Oum El Bouaghi,Ain Kercha,I
+04,Oum El Bouaghi,Ain M'lila,I
+04,Oum El Bouaghi,Ain Zitoun,I
+04,Oum El Bouaghi,Behir Chergui,I
+04,Oum El Bouaghi,Berriche,I
+04,Oum El Bouaghi,Bir Chouhada,I
+04,Oum El Bouaghi,Dhalaa,I
+04,Oum El Bouaghi,El Amiria,I
+04,Oum El Bouaghi,El Belala,I
+04,Oum El Bouaghi,El Djazia,I
+04,Oum El Bouaghi,El Fedjoudj Boughrara Sa,I
+04,Oum El Bouaghi,El Harmilia,I
+04,Oum El Bouaghi,Fkirina,I
+04,Oum El Bouaghi,Hanchir Toumghani,I
+04,Oum El Bouaghi,Ksar Sbahi,I
+04,Oum El Bouaghi,Meskiana,I
+04,Oum El Bouaghi,Oued Nini,I
+04,Oum El Bouaghi,Ouled Gacem,I
+04,Oum El Bouaghi,Ouled Hamla,I
+04,Oum El Bouaghi,Ouled Zouai,I
+04,Oum El Bouaghi,Oum El Bouaghi,I
+04,Oum El Bouaghi,Rahia,I
+04,Oum El Bouaghi,Sigus,I
+04,Oum El Bouaghi,Souk Naamane,I
+04,Oum El Bouaghi,Zorg,I
+05,Batna,Ain Djasser,I
+05,Batna,Ain Touta,I
+05,Batna,Ain Yagout,I
+05,Batna,Arris,I
+05,Batna,Azil Abedelkader,I
+05,Batna,Barika,I
+05,Batna,Batna,I
+05,Batna,Beni Foudhala El Hakania,I
+05,Batna,Bitam,I
+05,Batna,Boulhilat,I
+05,Batna,Boumagueur,I
+05,Batna,Boumia,I
+05,Batna,Bouzina,I
+05,Batna,Chemora,I
+05,Batna,Chir,I
+05,Batna,Djerma,I
+05,Batna,Djezzar,I
+05,Batna,El Hassi,I
+05,Batna,El Madher,I
+05,Batna,Fesdis,I
+05,Batna,Foum Toub,I
+05,Batna,Ghassira,I
+05,Batna,Gosbat,I
+05,Batna,Guigba,I
+05,Batna,Hidoussa,I
+05,Batna,Ichemoul,I
+05,Batna,Inoughissen,I
+05,Batna,Kimmel,I
+05,Batna,Ksar Bellezma,I
+05,Batna,Larbaa,I
+05,Batna,Lazrou,I
+05,Batna,Lemcene,I
+05,Batna,M Doukal,I
+05,Batna,Maafa,I
+05,Batna,Menaa,I
+05,Batna,Merouana,I
+05,Batna,N Gaous,I
+05,Batna,Oued Chaaba,I
+05,Batna,Oued El Ma,I
+05,Batna,Oued Taga,I
+05,Batna,Ouled Ammar,I
+05,Batna,Ouled Aouf,I
+05,Batna,Ouled Fadel,I
+05,Batna,Ouled Sellem,I
+05,Batna,Ouled Si Slimane,I
+05,Batna,Ouyoun El Assafir,I
+05,Batna,Rahbat,I
+05,Batna,Ras El Aioun,I
+05,Batna,Sefiane,I
+05,Batna,Seggana,I
+05,Batna,Seriana,I
+05,Batna,T Kout,I
+05,Batna,Talkhamt,I
+05,Batna,Taxlent,I
+05,Batna,Tazoult,I
+05,Batna,Teniet El Abed,I
+05,Batna,Tighanimine,I
+05,Batna,Tigharghar,I
+05,Batna,Tilatou,I
+05,Batna,Timgad,I
+05,Batna,Zanet El Beida,I
+06,Béjaïa,Adekar,IIa
+06,Béjaïa,Ait R'zine,IIa
+06,Béjaïa,Ait-Smail,IIa
+06,Béjaïa,Akbou,IIa
+06,Béjaïa,Akfadou,IIa
+06,Béjaïa,Amalou,IIa
+06,Béjaïa,Amizour,IIa
+06,Béjaïa,Aokas,IIa
+06,Béjaïa,Barbacha,IIa
+06,Béjaïa,Bejaia,IIa
+06,Béjaïa,Beni Djellil,IIa
+06,Béjaïa,Beni K'sila,IIa
+06,Béjaïa,Beni-Mallikeche,IIa
+06,Béjaïa,Benimaouche,IIa
+06,Béjaïa,Boudjellil,IIa
+06,Béjaïa,Bouhamza,IIa
+06,Béjaïa,Boukhelifa,IIa
+06,Béjaïa,Chellata,IIa
+06,Béjaïa,Chemini,IIa
+06,Béjaïa,Darguina,IIa
+06,Béjaïa,Dra El Caid,IIa
+06,Béjaïa,El Kseur,IIa
+06,Béjaïa,Fenaia Il Maten,IIa
+06,Béjaïa,Feraoun,IIa
+06,Béjaïa,Ighil-Ali,IIa
+06,Béjaïa,Ighram,IIa
+06,Béjaïa,Kendira,IIa
+06,Béjaïa,Kherrata,IIa
+06,Béjaïa,Leflaye,IIa
+06,Béjaïa,M'cisna,IIa
+06,Béjaïa,Melbou,IIa
+06,Béjaïa,Oued Ghir,IIa
+06,Béjaïa,Ouzellaguen,IIa
+06,Béjaïa,Seddouk,IIa
+06,Béjaïa,Sidi Ayad,IIa
+06,Béjaïa,Sidi-Aich,IIa
+06,Béjaïa,Smaoun,IIa
+06,Béjaïa,Souk El Tenine,IIa
+06,Béjaïa,Souk Oufella,IIa
+06,Béjaïa,Tala Hamza,IIa
+06,Béjaïa,Tamokra,IIa
+06,Béjaïa,Tamridjet,IIa
+06,Béjaïa,Taourit Ighil,IIa
+06,Béjaïa,Taskriout,IIa
+06,Béjaïa,Tazmalt,IIa
+06,Béjaïa,Tibane,IIa
+06,Béjaïa,Tichy,IIa
+06,Béjaïa,Tifra,IIa
+06,Béjaïa,Timezrit,IIa
+06,Béjaïa,Tinebdar,IIa
+06,Béjaïa,Tizi-N'berber,IIa
+06,Béjaïa,Toudja,IIa
+07,Biskra,Ain Naga,I
+07,Biskra,Ain Zaatout,I
+07,Biskra,Biskra,I
+07,Biskra,Bordj Ben Azzouz,I
+07,Biskra,Bouchakroun,I
+07,Biskra,Branis,I
+07,Biskra,Chetma,I
+07,Biskra,Djemorah,I
+07,Biskra,El Feidh,I
+07,Biskra,El Ghrous,I
+07,Biskra,El Hadjab,I
+07,Biskra,El Haouch,I
+07,Biskra,El Kantara,I
+07,Biskra,El Outaya,I
+07,Biskra,Foughala,I
+07,Biskra,Khenguet Sidi Nadji,I
+07,Biskra,Lichana,I
+07,Biskra,Lioua,I
+07,Biskra,M'chouneche,I
+07,Biskra,M'lili,I
+07,Biskra,Mekhadma,I
+07,Biskra,Meziraa,I
+07,Biskra,Oumache,I
+07,Biskra,Ourlal,I
+07,Biskra,Sidi Okba,I
+07,Biskra,Tolga,I
+07,Biskra,Zeribet El Oued,I
+08,Béchar,Abadla,0
+08,Béchar,Bechar,0
+08,Béchar,Beni-Ounif,0
+08,Béchar,Boukais,0
+08,Béchar,Erg-Ferradj,0
+08,Béchar,Kenadsa,0
+08,Béchar,Lahmar,0
+08,Béchar,Machraa-Houari-Boumediene,0
+08,Béchar,Meridja,0
+08,Béchar,Mogheul,0
+08,Béchar,Tabelbala,0
+08,Béchar,Taghit,0
+09,Blida,Ain Romana,III
+09,Blida,Ain Romana,IIb
+09,Blida,Beni Mered,III
+09,Blida,Beni-Tamou,III
+09,Blida,Benkhelil,III
+09,Blida,Blida,III
+09,Blida,Bouarfa,III
+09,Blida,Boufarik,III
+09,Blida,Bougara,III
+09,Blida,Bougara,IIb
+09,Blida,Bouinan,III
+09,Blida,Chebli,III
+09,Blida,Chiffa,III
+09,Blida,Chrea,III
+09,Blida,Djebabra,III
+09,Blida,Djebabra,IIb
+09,Blida,El-Affroun,III
+09,Blida,Guerrouaou,III
+09,Blida,Hammam Elouane,III
+09,Blida,Hammam Elouane,IIb
+09,Blida,Larbaa,III
+09,Blida,Larbaa,IIb
+09,Blida,Meftah,III
+09,Blida,Meftah,IIb
+09,Blida,Mouzaia,III
+09,Blida,Oued  Djer,III
+09,Blida,Oued El Alleug,III
+09,Blida,Ouled Slama,III
+09,Blida,Ouled Slama,IIb
+09,Blida,Ouled Yaich,III
+09,Blida,Souhane,III
+09,Blida,Souhane,IIb
+09,Blida,Soumaa,III
+10,Bouira,Aghbalou,IIa
+10,Bouira,Ahl El Ksar,IIa
+10,Bouira,Ain El Hadjar,IIa
+10,Bouira,Ain Laloui,IIa
+10,Bouira,Ain Turk,IIa
+10,Bouira,Ain-Bessem,IIa
+10,Bouira,Ait Laaziz,IIa
+10,Bouira,Aomar,IIa
+10,Bouira,Ath Mansour,IIa
+10,Bouira,Bechloul,IIa
+10,Bouira,Bir Ghbalou,IIa
+10,Bouira,Bordj Okhriss,IIa
+10,Bouira,Bouderbala,IIa
+10,Bouira,Bouira,IIa
+10,Bouira,Boukram,IIa
+10,Bouira,Chorfa,IIa
+10,Bouira,Dechmia,IIa
+10,Bouira,Dirah,IIa
+10,Bouira,Djebahia,IIa
+10,Bouira,El Adjiba,IIa
+10,Bouira,El Asnam,IIa
+10,Bouira,El Hachimia,IIa
+10,Bouira,El Khabouzia,IIa
+10,Bouira,El-Hakimia,IIa
+10,Bouira,El-Mokrani,IIa
+10,Bouira,Guerrouma,IIa
+10,Bouira,Hadjera Zerga,IIa
+10,Bouira,Haizer,IIa
+10,Bouira,Hanif,IIa
+10,Bouira,Kadiria,IIa
+10,Bouira,Lakhdaria,IIa
+10,Bouira,M Chedallah,IIa
+10,Bouira,Maala,IIa
+10,Bouira,Maamora,IIa
+10,Bouira,Mezdour,IIa
+10,Bouira,Oued El Berdi,IIa
+10,Bouira,Ouled Rached,IIa
+10,Bouira,Raouraoua,IIa
+10,Bouira,Ridane,IIa
+10,Bouira,Saharidj,IIa
+10,Bouira,Souk El Khemis,IIa
+10,Bouira,Sour El Ghozlane,IIa
+10,Bouira,Taghzout,IIa
+10,Bouira,Taguedite,IIa
+10,Bouira,Z'barbar (El Isseri ),IIa
+11,Tamanrasset,Abelsa,0
+11,Tamanrasset,Ain Amguel,0
+11,Tamanrasset,Idles,0
+11,Tamanrasset,Tamanrasset,0
+11,Tamanrasset,Tazrouk,0
+12,Tébessa,Ain Zerga,I
+12,Tébessa,Bedjene,I
+12,Tébessa,Bekkaria,I
+12,Tébessa,Bir Dheheb,I
+12,Tébessa,Bir Mokkadem,I
+12,Tébessa,Bir-El-Ater,I
+12,Tébessa,Boukhadra,I
+12,Tébessa,Boulhaf Dyr,I
+12,Tébessa,Cheria,I
+12,Tébessa,El Kouif,I
+12,Tébessa,El Malabiod,I
+12,Tébessa,El Meridj,I
+12,Tébessa,El Mezeraa,I
+12,Tébessa,El Ogla,I
+12,Tébessa,El Ogla El Malha,I
+12,Tébessa,El-Aouinet,I
+12,Tébessa,El-Houidjbet,I
+12,Tébessa,Ferkane,I
+12,Tébessa,Guorriguer,I
+12,Tébessa,Hammamet,I
+12,Tébessa,Morsott,I
+12,Tébessa,Negrine,I
+12,Tébessa,Ouenza,I
+12,Tébessa,Oum Ali,I
+12,Tébessa,Saf Saf El Ouesra,I
+12,Tébessa,Stah Guentis,I
+12,Tébessa,Tebessa,I
+12,Tébessa,Telidjen,I
+14,Tiaret,Ain Bouchekif,I
+14,Tiaret,Ain Deheb,I
+14,Tiaret,Ain Dzarit,I
+14,Tiaret,Ain El Hadid,I
+14,Tiaret,Ain Kermes,I
+14,Tiaret,Bougara,I
+14,Tiaret,Chehaima,I
+14,Tiaret,Dahmouni,I
+14,Tiaret,Djebilet Rosfa,I
+14,Tiaret,Djillali Ben Amar,I
+14,Tiaret,Faidja,I
+14,Tiaret,Frenda,I
+14,Tiaret,Guertoufa,I
+14,Tiaret,Hamadia,I
+14,Tiaret,Ksar Chellala,I
+14,Tiaret,Madna,I
+14,Tiaret,Mahdia,I
+14,Tiaret,Mechraa Safa,I
+14,Tiaret,Medrissa,I
+14,Tiaret,Medroussa,I
+14,Tiaret,Meghila,I
+14,Tiaret,Mellakou,I
+14,Tiaret,Nadorah,I
+14,Tiaret,Naima,I
+14,Tiaret,Oued Lilli,I
+14,Tiaret,Rahouia,I
+14,Tiaret,Rechaiga,I
+14,Tiaret,Sebaine,I
+14,Tiaret,Sebt,I
+14,Tiaret,Serghine,I
+14,Tiaret,Si Abdelghani,I
+14,Tiaret,Sidi Abderrahmane,I
+14,Tiaret,Sidi Ali Mellal,I
+14,Tiaret,Sidi Bakhti,I
+14,Tiaret,Sidi Hosni,I
+14,Tiaret,Sougueur,I
+14,Tiaret,Tagdempt,I
+14,Tiaret,Takhemaret,I
+14,Tiaret,Tiaret,I
+14,Tiaret,Tidda,I
+14,Tiaret,Tousnina,I
+14,Tiaret,Zmalet El Emir Abdelkade,I
+15,Tizi Ouzou,Abi-Youcef,III
+15,Tizi Ouzou,Aghribs,III
+15,Tizi Ouzou,Aghribs,IIb
+15,Tizi Ouzou,Agouni-Gueghrane,III
+15,Tizi Ouzou,Agouni-Gueghrane,IIa
+15,Tizi Ouzou,Ain-El-Hammam,III
+15,Tizi Ouzou,Ain-Zaouia,III
+15,Tizi Ouzou,Ain-Zaouia,IIa
+15,Tizi Ouzou,Ait Aggouacha,III
+15,Tizi Ouzou,Ait Bouaddou,III
+15,Tizi Ouzou,Ait Bouaddou,IIa
+15,Tizi Ouzou,Ait Boumahdi,III
+15,Tizi Ouzou,Ait Khellili,III
+15,Tizi Ouzou,Ait Khellili,IIb
+15,Tizi Ouzou,Ait Yahia Moussa,III
+15,Tizi Ouzou,Ait Yahia Moussa,IIa
+15,Tizi Ouzou,Ait-Aissa-Mimoun,III
+15,Tizi Ouzou,Ait-Aissa-Mimoun,IIb
+15,Tizi Ouzou,Ait-Chafaa,III
+15,Tizi Ouzou,Ait-Mahmoud,III
+15,Tizi Ouzou,Ait-Oumalou,III
+15,Tizi Ouzou,Ait-Toudert,III
+15,Tizi Ouzou,Ait-Yahia,III
+15,Tizi Ouzou,Akbil,III
+15,Tizi Ouzou,Akerrou,III
+15,Tizi Ouzou,Assi-Youcef,III
+15,Tizi Ouzou,Assi-Youcef,IIa
+15,Tizi Ouzou,Azazga,III
+15,Tizi Ouzou,Azazga,IIb
+15,Tizi Ouzou,Azeffoun,III
+15,Tizi Ouzou,Beni Zmenzer,III
+15,Tizi Ouzou,Beni-Aissi,III
+15,Tizi Ouzou,Beni-Douala,III
+15,Tizi Ouzou,Beni-Yenni,III
+15,Tizi Ouzou,Beni-Zikki,III
+15,Tizi Ouzou,Boghni,III
+15,Tizi Ouzou,Boghni,IIa
+15,Tizi Ouzou,Boudjima,III
+15,Tizi Ouzou,Boudjima,IIb
+15,Tizi Ouzou,Bounouh,III
+15,Tizi Ouzou,Bounouh,IIa
+15,Tizi Ouzou,Bouzeguene,III
+15,Tizi Ouzou,Draa-Ben-Khedda,III
+15,Tizi Ouzou,Draa-El-Mizan,III
+15,Tizi Ouzou,Draa-El-Mizan,IIa
+15,Tizi Ouzou,Freha,III
+15,Tizi Ouzou,Freha,IIb
+15,Tizi Ouzou,Frikat,III
+15,Tizi Ouzou,Frikat,IIa
+15,Tizi Ouzou,Iboudrarene,III
+15,Tizi Ouzou,Idjeur,III
+15,Tizi Ouzou,Iferhounene,III
+15,Tizi Ouzou,Ifigha,III
+15,Tizi Ouzou,Ifigha,IIb
+15,Tizi Ouzou,Iflissen,III
+15,Tizi Ouzou,Iflissen,IIb
+15,Tizi Ouzou,Illilten,III
+15,Tizi Ouzou,Illoula Oumalou,III
+15,Tizi Ouzou,Imsouhal,III
+15,Tizi Ouzou,Irdjen,III
+15,Tizi Ouzou,Larbaa Nath Irathen,III
+15,Tizi Ouzou,M'kira,III
+15,Tizi Ouzou,Maatkas,III
+15,Tizi Ouzou,Makouda,III
+15,Tizi Ouzou,Makouda,IIb
+15,Tizi Ouzou,Mechtras,III
+15,Tizi Ouzou,Mechtras,IIa
+15,Tizi Ouzou,Mekla,III
+15,Tizi Ouzou,Mekla,IIb
+15,Tizi Ouzou,Mizrana,III
+15,Tizi Ouzou,Mizrana,IIb
+15,Tizi Ouzou,Ouacif,III
+15,Tizi Ouzou,Ouadhias,III
+15,Tizi Ouzou,Ouadhias,IIa
+15,Tizi Ouzou,Ouaguenoun,III
+15,Tizi Ouzou,Ouaguenoun,IIb
+15,Tizi Ouzou,Sidi Namane,III
+15,Tizi Ouzou,Souama,III
+15,Tizi Ouzou,Souama,IIb
+15,Tizi Ouzou,Souk-El-Tenine,III
+15,Tizi Ouzou,Tadmait,III
+15,Tizi Ouzou,Tigzirt,III
+15,Tizi Ouzou,Tigzirt,IIb
+15,Tizi Ouzou,Timizart,III
+15,Tizi Ouzou,Timizart,IIb
+15,Tizi Ouzou,Tirmitine,III
+15,Tizi Ouzou,Tizi N'tleta,III
+15,Tizi Ouzou,Tizi N'tleta,IIa
+15,Tizi Ouzou,Tizi-Gheniff,III
+15,Tizi Ouzou,Tizi-Ouzou,III
+15,Tizi Ouzou,Tizi-Rached,III
+15,Tizi Ouzou,Yakourene,III
+15,Tizi Ouzou,Yakourene,IIb
+15,Tizi Ouzou,Yatafene,III
+15,Tizi Ouzou,Zekri,III
+16,Alger,Ain Benian,III
+16,Alger,Ain Taya,III
+16,Alger,Alger Centre,III
+16,Alger,Bab El Oued,III
+16,Alger,Bab Ezzouar,III
+16,Alger,Baba Hassen,III
+16,Alger,Bachedjerah,III
+16,Alger,Baraki,III
+16,Alger,Ben Aknoun,III
+16,Alger,Beni Messous,III
+16,Alger,Bir Mourad Rais,III
+16,Alger,Bir Touta,III
+16,Alger,Birkhadem,III
+16,Alger,Bologhine Ibnou Ziri,III
+16,Alger,Bordj El Bahri,III
+16,Alger,Bordj El Kiffan,III
+16,Alger,Bourouba,III
+16,Alger,Bouzareah,III
+16,Alger,Casbah,III
+16,Alger,Cheraga,III
+16,Alger,Dar El Beida,III
+16,Alger,Dely Ibrahim,III
+16,Alger,Djasr Kasentina,III
+16,Alger,Douira,III
+16,Alger,Draria,III
+16,Alger,El Achour,III
+16,Alger,El Biar,III
+16,Alger,El Harrach,III
+16,Alger,El Madania,III
+16,Alger,El Magharia,III
+16,Alger,El Marsa,III
+16,Alger,El Mouradia,III
+16,Alger,Hammamet,III
+16,Alger,Herraoua,III
+16,Alger,Hussein Dey,III
+16,Alger,Hydra,III
+16,Alger,Khraissia,III
+16,Alger,Kouba,III
+16,Alger,Les Eucalyptus,III
+16,Alger,Maalma,III
+16,Alger,Mohamed Belouzdad,III
+16,Alger,Mohammadia,III
+16,Alger,Oued Koriche,III
+16,Alger,Oued Smar,III
+16,Alger,Ouled Chebel,III
+16,Alger,Ouled Fayet,III
+16,Alger,Rahmania,III
+16,Alger,Rais Hamidou,III
+16,Alger,Reghaia,III
+16,Alger,Rouiba,III
+16,Alger,Sehaoula,III
+16,Alger,Sidi M'hamed,III
+16,Alger,Sidi Moussa,III
+16,Alger,Souidania,III
+16,Alger,Staoueli,III
+16,Alger,Tessala El Merdja,III
+16,Alger,Zeralda,III
+17,Djelfa,Ain Chouhada,I
+17,Djelfa,Ain El Ibel,I
+17,Djelfa,Ain Fekka,I
+17,Djelfa,Ain Maabed,I
+17,Djelfa,Ain Oussera,I
+17,Djelfa,Amourah,I
+17,Djelfa,Benhar,I
+17,Djelfa,Benyagoub,I
+17,Djelfa,Birine,I
+17,Djelfa,Bouira Lahdab,I
+17,Djelfa,Charef,I
+17,Djelfa,Dar Chioukh,I
+17,Djelfa,Deldoul,I
+17,Djelfa,Djelfa,I
+17,Djelfa,Douis,I
+17,Djelfa,El Guedid,I
+17,Djelfa,El Idrissia,I
+17,Djelfa,El Khemis,I
+17,Djelfa,Faidh El Botma,I
+17,Djelfa,Guernini,I
+17,Djelfa,Guettara,I
+17,Djelfa,Had Sahary,I
+17,Djelfa,Hassi Bahbah,I
+17,Djelfa,Hassi El Euch,I
+17,Djelfa,Hassi Fedoul,I
+17,Djelfa,M'liliha,I
+17,Djelfa,Messaad,I
+17,Djelfa,Moudjebara,I
+17,Djelfa,Oum Laadham,I
+17,Djelfa,Sed Rahal,I
+17,Djelfa,Selmana,I
+17,Djelfa,Sidi Baizid,I
+17,Djelfa,Sidi Laadjel,I
+17,Djelfa,Taadmit,I
+17,Djelfa,Zaafrane,I
+17,Djelfa,Zaccar,I
+18,Jijel,Bordj T'har,IIa
+18,Jijel,Boudria Beniyadjis,IIa
+18,Jijel,Bouraoui Belhadef,IIa
+18,Jijel,Boussif Ouled Askeur,IIa
+18,Jijel,Chahna,IIa
+18,Jijel,Chekfa,IIa
+18,Jijel,Djemaa Beni Habibi,IIa
+18,Jijel,Djimla,IIa
+18,Jijel,El Ancer,IIa
+18,Jijel,El Aouana,IIa
+18,Jijel,El Kennar Nouchfi,IIa
+18,Jijel,El Milia,IIa
+18,Jijel,Emir Abdelkader,IIa
+18,Jijel,Erraguene Souissi,IIa
+18,Jijel,Ghebala,IIa
+18,Jijel,Jijel,IIa
+18,Jijel,Kaous,IIa
+18,Jijel,Khiri Oued Adjoul,IIa
+18,Jijel,Oudjana,IIa
+18,Jijel,Ouled Rabah,IIa
+18,Jijel,Ouled Yahia Khadrouch,IIa
+18,Jijel,Selma Benziada,IIa
+18,Jijel,Settara,IIa
+18,Jijel,Sidi Abdelaziz,IIa
+18,Jijel,Sidi Marouf,IIa
+18,Jijel,Taher,IIa
+18,Jijel,Texenna,IIa
+18,Jijel,Ziama Mansouriah,IIa
+19,Sétif,Ain Abessa,IIa
+19,Sétif,Ain Arnat,IIa
+19,Sétif,Ain Azel,IIa
+19,Sétif,Ain El Kebira,IIa
+19,Sétif,Ain Lahdjar,IIa
+19,Sétif,Ain Oulmene,IIa
+19,Sétif,Ain-Legradj,IIa
+19,Sétif,Ain-Roua,IIa
+19,Sétif,Ain-Sebt,IIa
+19,Sétif,Ait Naoual Mezada,IIa
+19,Sétif,Ait-Tizi,IIa
+19,Sétif,Amoucha,IIa
+19,Sétif,Babor,IIa
+19,Sétif,Bazer-Sakra,IIa
+19,Sétif,Beidha Bordj,IIa
+19,Sétif,Bellaa,IIa
+19,Sétif,Beni Chebana,IIa
+19,Sétif,Beni Fouda,IIa
+19,Sétif,Beni Ourtilane,IIa
+19,Sétif,Beni Oussine,IIa
+19,Sétif,Beni-Aziz,IIa
+19,Sétif,Beni-Mouhli,IIa
+19,Sétif,Bir Haddada,IIa
+19,Sétif,Bir-El-Arch,IIa
+19,Sétif,Bouandas,IIa
+19,Sétif,Bougaa,IIa
+19,Sétif,Bousselam,IIa
+19,Sétif,Boutaleb,IIa
+19,Sétif,Dehamcha,IIa
+19,Sétif,Djemila,IIa
+19,Sétif,Draa-Kebila,IIa
+19,Sétif,El Eulma,IIa
+19,Sétif,El Ouricia,IIa
+19,Sétif,El-Ouldja,IIa
+19,Sétif,Guellal,IIa
+19,Sétif,Guelta Zerka,IIa
+19,Sétif,Guenzet,IIa
+19,Sétif,Guidjel,IIa
+19,Sétif,Hamam Soukhna,IIa
+19,Sétif,Hamma,IIa
+19,Sétif,Hammam Guergour,IIa
+19,Sétif,Harbil,IIa
+19,Sétif,Kasr El Abtal,IIa
+19,Sétif,Maaouia,IIa
+19,Sétif,Maouaklane,IIa
+19,Sétif,Mezloug,IIa
+19,Sétif,Oued El Bared,IIa
+19,Sétif,Ouled Addouane,IIa
+19,Sétif,Ouled Sabor,IIa
+19,Sétif,Ouled Si Ahmed,IIa
+19,Sétif,Ouled Tebben,IIa
+19,Sétif,Rosfa,IIa
+19,Sétif,Salah Bey,IIa
+19,Sétif,Serdj-El-Ghoul,IIa
+19,Sétif,Setif,IIa
+19,Sétif,Tachouda,IIa
+19,Sétif,Tala-Ifacene,IIa
+19,Sétif,Taya,IIa
+19,Sétif,Tella,IIa
+19,Sétif,Tizi N'bechar,IIa
+20,Saïda,Ain El Hadjar,I
+20,Saïda,Ain Sekhouna,I
+20,Saïda,Ain Soltane,I
+20,Saïda,Doui Thabet,I
+20,Saïda,El Hassasna,I
+20,Saïda,Hounet,I
+20,Saïda,Maamora,I
+20,Saïda,Moulay Larbi,I
+20,Saïda,Ouled Brahim,I
+20,Saïda,Ouled Khaled,I
+20,Saïda,Saida,I
+20,Saïda,Sidi Ahmed,I
+20,Saïda,Sidi Amar,I
+20,Saïda,Sidi Boubekeur,I
+20,Saïda,Tircine,I
+20,Saïda,Youb,I
+21,Skikda,Ain Bouziane,IIa
+21,Skikda,Ain Charchar,IIa
+21,Skikda,Ain Kechra,IIa
+21,Skikda,Ain Zouit,IIa
+21,Skikda,Azzaba,IIa
+21,Skikda,Bekkouche Lakhdar,IIa
+21,Skikda,Ben Azzouz,IIa
+21,Skikda,Beni Bechir,IIa
+21,Skikda,Beni Oulbane,IIa
+21,Skikda,Beni Zid,IIa
+21,Skikda,Bin El Ouiden,IIa
+21,Skikda,Bouchetata,IIa
+21,Skikda,Cheraia,IIa
+21,Skikda,Collo,IIa
+21,Skikda,Djendel Saadi Mohamed,IIa
+21,Skikda,El Arrouch,IIa
+21,Skikda,El Ghedir,IIa
+21,Skikda,El Hadaiek,IIa
+21,Skikda,El Marsa,IIa
+21,Skikda,Emjez Edchich,IIa
+21,Skikda,Es Sebt,IIa
+21,Skikda,Filfila,IIa
+21,Skikda,Hammadi Krouma,IIa
+21,Skikda,Kanoua,IIa
+21,Skikda,Kerkara,IIa
+21,Skikda,Khenag Maoune,IIa
+21,Skikda,Oued Zhour,IIa
+21,Skikda,Ouldja Boulbalout,IIa
+21,Skikda,Ouled Attia,IIa
+21,Skikda,Ouled Habbaba,IIa
+21,Skikda,Oum Toub,IIa
+21,Skikda,Ramdane Djamel,IIa
+21,Skikda,Salah Bouchaour,IIa
+21,Skikda,Sidi Mezghiche,IIa
+21,Skikda,Skikda,IIa
+21,Skikda,Tamalous,IIa
+21,Skikda,Zerdezas,IIa
+21,Skikda,Zitouna,IIa
+22,Sidi Bel Abbès,Ain El Berd,I
+22,Sidi Bel Abbès,Ain Kada,I
+22,Sidi Bel Abbès,Ain Thrid,I
+22,Sidi Bel Abbès,Ain Tindamine,I
+22,Sidi Bel Abbès,Ain- Adden,I
+22,Sidi Bel Abbès,Amarnas,I
+22,Sidi Bel Abbès,Bedrabine El Mokrani,I
+22,Sidi Bel Abbès,Belarbi,I
+22,Sidi Bel Abbès,Ben Badis,I
+22,Sidi Bel Abbès,Benachiba Chelia,I
+22,Sidi Bel Abbès,Bir El Hammam,I
+22,Sidi Bel Abbès,Boudjebaa El Bordj,I
+22,Sidi Bel Abbès,Boukhanefis,I
+22,Sidi Bel Abbès,Chetouane Belaila,I
+22,Sidi Bel Abbès,Dhaya,I
+22,Sidi Bel Abbès,El Hacaiba,I
+22,Sidi Bel Abbès,Hassi Dahou,I
+22,Sidi Bel Abbès,Hassi Zahana,I
+22,Sidi Bel Abbès,Lamtar,I
+22,Sidi Bel Abbès,M'cid,I
+22,Sidi Bel Abbès,Makedra,I
+22,Sidi Bel Abbès,Marhoum,I
+22,Sidi Bel Abbès,Merine,I
+22,Sidi Bel Abbès,Mezaourou,I
+22,Sidi Bel Abbès,Mostefa  Ben Brahim,I
+22,Sidi Bel Abbès,Moulay Slissen,I
+22,Sidi Bel Abbès,Oued Sebaa,I
+22,Sidi Bel Abbès,Oued Sefioun,I
+22,Sidi Bel Abbès,Oued Taourira,I
+22,Sidi Bel Abbès,Ras El Ma,I
+22,Sidi Bel Abbès,Redjem Demouche,I
+22,Sidi Bel Abbès,Sehala Thaoura,I
+22,Sidi Bel Abbès,Sfisef,I
+22,Sidi Bel Abbès,Sidi Ali Benyoub,I
+22,Sidi Bel Abbès,Sidi Ali Boussidi,I
+22,Sidi Bel Abbès,Sidi Bel-Abbes,I
+22,Sidi Bel Abbès,Sidi Brahim,I
+22,Sidi Bel Abbès,Sidi Chaib,I
+22,Sidi Bel Abbès,Sidi Dahou Zairs,I
+22,Sidi Bel Abbès,Sidi Hamadouche,I
+22,Sidi Bel Abbès,Sidi Khaled,I
+22,Sidi Bel Abbès,Sidi Lahcene,I
+22,Sidi Bel Abbès,Sidi Yacoub,I
+22,Sidi Bel Abbès,Tabia,I
+22,Sidi Bel Abbès,Taoudmout,I
+22,Sidi Bel Abbès,Tefessour,I
+22,Sidi Bel Abbès,Teghalimet,I
+22,Sidi Bel Abbès,Telagh,I
+22,Sidi Bel Abbès,Tenira,I
+22,Sidi Bel Abbès,Tessala,I
+22,Sidi Bel Abbès,Tilmouni,I
+22,Sidi Bel Abbès,Zerouala,I
+23,Annaba,Ain El Berda,IIa
+23,Annaba,Annaba,IIa
+23,Annaba,Berrahal,IIa
+23,Annaba,Chetaibi,IIa
+23,Annaba,Cheurfa,IIa
+23,Annaba,El Bouni,IIa
+23,Annaba,El Eulma,IIa
+23,Annaba,El Hadjar,IIa
+23,Annaba,Oued El Aneb,IIa
+23,Annaba,Seraidi,IIa
+23,Annaba,Sidi Amar,IIa
+23,Annaba,Treat,IIa
+24,Guelma,Ain Ben Beida,IIa
+24,Guelma,Ain Larbi,IIa
+24,Guelma,Ain Larbi,IIb
+24,Guelma,Ain Makhlouf,IIa
+24,Guelma,Ain Makhlouf,IIb
+24,Guelma,Ain Regada,IIa
+24,Guelma,Ain Sandel,IIa
+24,Guelma,Belkheir,IIa
+24,Guelma,Bendjarah,IIa
+24,Guelma,Beni Mezline,IIa
+24,Guelma,Bordj Sabath,IIa
+24,Guelma,Bordj Sabath,IIb
+24,Guelma,Bou Hachana,IIa
+24,Guelma,Bou Hamdane,IIa
+24,Guelma,Bou Hamdane,IIb
+24,Guelma,Bouati Mahmoud,IIa
+24,Guelma,Bouchegouf,IIa
+24,Guelma,Boumahra Ahmed,IIa
+24,Guelma,Dahouara,IIa
+24,Guelma,Djeballah Khemissi,IIa
+24,Guelma,Djeballah Khemissi,IIb
+24,Guelma,El Fedjoudj,IIa
+24,Guelma,Guelaat Bou Sbaa,IIa
+24,Guelma,Guelma,IIa
+24,Guelma,Hammam Debagh,IIa
+24,Guelma,Hammam Debagh,IIb
+24,Guelma,Hammam N'bail,IIa
+24,Guelma,Heliopolis,IIa
+24,Guelma,Houari Boumedienne,IIa
+24,Guelma,Khezaras,IIa
+24,Guelma,Medjez Amar,IIa
+24,Guelma,Medjez Sfa,IIa
+24,Guelma,Nechmaya,IIa
+24,Guelma,Oued Cheham,IIa
+24,Guelma,Oued Ferragha,IIa
+24,Guelma,Oued Zenati,IIa
+24,Guelma,Oued Zenati,IIb
+24,Guelma,Ras El Agba,IIa
+24,Guelma,Roknia,IIa
+24,Guelma,Roknia,IIb
+24,Guelma,Sellaoua Announa,IIa
+24,Guelma,Tamlouka,IIa
+25,Constantine,Ain Abid,IIa
+25,Constantine,Ain Smara,IIa
+25,Constantine,Ben Badis,IIa
+25,Constantine,Beni Hamidane,IIa
+25,Constantine,Constantine,IIa
+25,Constantine,Didouche Mourad,IIa
+25,Constantine,El Khroub,IIa
+25,Constantine,Hamma Bouziane,IIa
+25,Constantine,Ibn Ziad,IIa
+25,Constantine,Messaoud Boudjeriou,IIa
+25,Constantine,Ouled Rahmoun,IIa
+25,Constantine,Zighoud Youcef,IIa
+26,Médéa,Ain Boucif,I
+26,Médéa,Ain Boucif,IIb
+26,Médéa,Ain Ouksir,IIb
+26,Médéa,Aissaouia,IIb
+26,Médéa,Aziz,I
+26,Médéa,Aziz,IIb
+26,Médéa,Baata,IIb
+26,Médéa,Ben Chicao,IIb
+26,Médéa,Beni Slimane,IIa
+26,Médéa,Beni Slimane,IIb
+26,Médéa,Berrouaghia,IIb
+26,Médéa,Bir Ben Laabed,IIa
+26,Médéa,Bir Ben Laabed,IIb
+26,Médéa,Boghar,I
+26,Médéa,Boghar,IIb
+26,Médéa,Bouaiche,IIa
+26,Médéa,Bouaiche,IIb
+26,Médéa,Bouaichoune,IIb
+26,Médéa,Bouchrahil,IIb
+26,Médéa,Boughzoul,IIa
+26,Médéa,Boughzoul,IIb
+26,Médéa,Bouskene,IIa
+26,Médéa,Bouskene,IIb
+26,Médéa,Chabounia,IIa
+26,Médéa,Chabounia,IIb
+26,Médéa,Chelalet El Adhaoura,IIb
+26,Médéa,Cheniguel,IIa
+26,Médéa,Cheniguel,IIb
+26,Médéa,Derrag,I
+26,Médéa,Derrag,IIb
+26,Médéa,Djouab,IIb
+26,Médéa,Draa Esmar,IIb
+26,Médéa,El Azizia,IIa
+26,Médéa,El Azizia,IIb
+26,Médéa,El Guelbelkebir,IIa
+26,Médéa,El Guelbelkebir,IIb
+26,Médéa,El Hamdania,IIb
+26,Médéa,El Haoudane,IIb
+26,Médéa,El Omaria,IIa
+26,Médéa,El Omaria,IIb
+26,Médéa,El Ouinet,I
+26,Médéa,El Ouinet,IIb
+26,Médéa,Hannacha,IIb
+26,Médéa,Kef Lakhdar,I
+26,Médéa,Kef Lakhdar,IIb
+26,Médéa,Khams Djouamaa,IIa
+26,Médéa,Khams Djouamaa,IIb
+26,Médéa,Ksar El Boukhari,IIb
+26,Médéa,M'fatha,IIb
+26,Médéa,Maghraoua,IIa
+26,Médéa,Maghraoua,IIb
+26,Médéa,Medea,IIb
+26,Médéa,Medjebar,IIb
+26,Médéa,Mezerana,IIb
+26,Médéa,Mihoub,IIa
+26,Médéa,Mihoub,IIb
+26,Médéa,Ouamri,IIb
+26,Médéa,Oued Harbil,IIb
+26,Médéa,Ouled Antar,IIb
+26,Médéa,Ouled Bouachra,IIb
+26,Médéa,Ouled Brahim,IIa
+26,Médéa,Ouled Brahim,IIb
+26,Médéa,Ouled Deid,IIb
+26,Médéa,Ouled Emaaraf,I
+26,Médéa,Ouled Emaaraf,IIb
+26,Médéa,Ouled Hellal,IIb
+26,Médéa,Oum El Djellil,I
+26,Médéa,Oum El Djellil,IIb
+26,Médéa,Ouzera,IIb
+26,Médéa,Rebaia,I
+26,Médéa,Rebaia,IIb
+26,Médéa,Saneg,I
+26,Médéa,Saneg,IIb
+26,Médéa,Sedraya,IIa
+26,Médéa,Sedraya,IIb
+26,Médéa,Seghouane,I
+26,Médéa,Seghouane,IIb
+26,Médéa,Si Mahdjoub,IIb
+26,Médéa,Sidi Demed,I
+26,Médéa,Sidi Demed,IIb
+26,Médéa,Sidi Naamane,IIb
+26,Médéa,Sidi Rabie,IIa
+26,Médéa,Sidi Rabie,IIb
+26,Médéa,Sidi Zahar,IIb
+26,Médéa,Sidi Ziane,IIb
+26,Médéa,Souagui,IIb
+26,Médéa,Tablat,IIb
+26,Médéa,Tafraout,IIb
+26,Médéa,Tamesguida,IIb
+26,Médéa,Tizi Mahdi,IIb
+26,Médéa,Tletat Ed Douair,I
+26,Médéa,Tletat Ed Douair,IIb
+26,Médéa,Zoubiria,I
+26,Médéa,Zoubiria,IIb
+27,Mostaganem,Achaacha,IIa
+27,Mostaganem,Ain-Boudinar,IIa
+27,Mostaganem,Ain-Nouissy,IIa
+27,Mostaganem,Ain-Sidi Cherif,IIa
+27,Mostaganem,Ain-Tedles,IIa
+27,Mostaganem,Benabdelmalek Ramdane,IIa
+27,Mostaganem,Bouguirat,IIa
+27,Mostaganem,Fornaka,IIa
+27,Mostaganem,Hadjadj,IIa
+27,Mostaganem,Hassi Mameche,IIa
+27,Mostaganem,Hassiane,IIa
+27,Mostaganem,Khadra,IIa
+27,Mostaganem,Kheir-Eddine,IIa
+27,Mostaganem,Mansourah,IIa
+27,Mostaganem,Mazagran,IIa
+27,Mostaganem,Mesra,IIa
+27,Mostaganem,Mostaganem,IIa
+27,Mostaganem,Nekmaria,IIa
+27,Mostaganem,Oued El Kheir,IIa
+27,Mostaganem,Ouled Boughalem,IIa
+27,Mostaganem,Ouled-Maalah,IIa
+27,Mostaganem,Safsaf,IIa
+27,Mostaganem,Sayada,IIa
+27,Mostaganem,Sidi Ali,IIa
+27,Mostaganem,Sidi Belaattar,IIa
+27,Mostaganem,Sidi-Lakhdar,IIa
+27,Mostaganem,Sirat,IIa
+27,Mostaganem,Souaflia,IIa
+27,Mostaganem,Sour,IIa
+27,Mostaganem,Stidia,IIa
+27,Mostaganem,Tazgait,IIa
+27,Mostaganem,Touahria,IIa
+28,M'Sila,Ain El Hadjel,IIa
+28,M'Sila,Ain El Melh,I
+28,M'Sila,Ain El Melh,IIa
+28,M'Sila,Ain Fares,I
+28,M'Sila,Ain Fares,IIa
+28,M'Sila,Ain Khadra,IIa
+28,M'Sila,Ain Rich,I
+28,M'Sila,Ain Rich,IIa
+28,M'Sila,Belaiba,IIa
+28,M'Sila,Ben Srour,IIa
+28,M'Sila,Beni Ilmane,IIa
+28,M'Sila,Benzouh,IIa
+28,M'Sila,Berhoum,IIa
+28,M'Sila,Bir Foda,I
+28,M'Sila,Bir Foda,IIa
+28,M'Sila,Bou Saada,IIa
+28,M'Sila,Bouti Sayeh,I
+28,M'Sila,Bouti Sayeh,IIa
+28,M'Sila,Chellal,IIa
+28,M'Sila,Dehahna,IIa
+28,M'Sila,Djebel Messaad,IIa
+28,M'Sila,El Hamel,IIa
+28,M'Sila,El Houamed,IIa
+28,M'Sila,Hammam Dalaa,IIa
+28,M'Sila,Khettouti Sed-El-Jir,IIa
+28,M'Sila,Khoubana,IIa
+28,M'Sila,M'cif,IIa
+28,M'Sila,M'sila,IIa
+28,M'Sila,M'tarfa,IIa
+28,M'Sila,Maadid,IIa
+28,M'Sila,Maarif,IIa
+28,M'Sila,Magra,IIa
+28,M'Sila,Medjedel,IIa
+28,M'Sila,Menaa,IIa
+28,M'Sila,Mohamed Boudiaf,IIa
+28,M'Sila,Ouanougha,IIa
+28,M'Sila,Ouled Addi Guebala,IIa
+28,M'Sila,Ouled Derradj,IIa
+28,M'Sila,Ouled Madhi,IIa
+28,M'Sila,Ouled Mansour,IIa
+28,M'Sila,Ouled Sidi Brahim,IIa
+28,M'Sila,Ouled Slimane,IIa
+28,M'Sila,Oulteme,IIa
+28,M'Sila,Sidi Aissa,IIa
+28,M'Sila,Sidi Ameur,IIa
+28,M'Sila,Sidi Hadjeres,IIa
+28,M'Sila,Sidi M'hamed,I
+28,M'Sila,Sidi M'hamed,IIa
+28,M'Sila,Slim,IIa
+28,M'Sila,Souamaa,IIa
+28,M'Sila,Tamsa,IIa
+28,M'Sila,Tarmount,IIa
+28,M'Sila,Zarzour,IIa
+29,Mascara,Ain Fares,IIa
+29,Mascara,Ain Fekan,IIa
+29,Mascara,Ain Ferah,IIa
+29,Mascara,Ain Frass,IIa
+29,Mascara,Alaimia,IIa
+29,Mascara,Aouf,IIa
+29,Mascara,Benian,IIa
+29,Mascara,Bou Henni,IIa
+29,Mascara,Bouhanifia,IIa
+29,Mascara,Chorfa,IIa
+29,Mascara,El Bordj,IIa
+29,Mascara,El Gaada,IIa
+29,Mascara,El Ghomri,IIa
+29,Mascara,El Gueitena,IIa
+29,Mascara,El Hachem,IIa
+29,Mascara,El Keurt,IIa
+29,Mascara,El Mamounia,IIa
+29,Mascara,El Menaouer,IIa
+29,Mascara,Ferraguig,IIa
+29,Mascara,Froha,IIa
+29,Mascara,Gharrous,IIa
+29,Mascara,Ghriss,IIa
+29,Mascara,Guerdjoum,IIa
+29,Mascara,Hacine,IIa
+29,Mascara,Khalouia,IIa
+29,Mascara,Makhda,IIa
+29,Mascara,Maoussa,IIa
+29,Mascara,Mascara,IIa
+29,Mascara,Matemore,IIa
+29,Mascara,Mocta-Douz,IIa
+29,Mascara,Mohammadia,IIa
+29,Mascara,Nesmot,IIa
+29,Mascara,Oggaz,IIa
+29,Mascara,Oued El Abtal,IIa
+29,Mascara,Oued Taria,IIa
+29,Mascara,Ras El Ain Amirouche,IIa
+29,Mascara,Sedjerara,IIa
+29,Mascara,Sehailia,IIa
+29,Mascara,Sidi Abdeldjebar,IIa
+29,Mascara,Sidi Abdelmoumene,IIa
+29,Mascara,Sidi Boussaid,IIa
+29,Mascara,Sidi Kada,IIa
+29,Mascara,Sig,IIa
+29,Mascara,Tighennif,IIa
+29,Mascara,Tizi,IIa
+29,Mascara,Zahana,IIa
+29,Mascara,Zelamta,IIa
+30,Ouargla,Ain Beida,0
+30,Ouargla,El Borma,0
+30,Ouargla,Hassi Ben Abdellah,0
+30,Ouargla,Hassi Messaoud,0
+30,Ouargla,N'goussa,0
+30,Ouargla,Ouargla,0
+30,Ouargla,Rouissat,0
+30,Ouargla,Sidi Khouiled,0
+31,Oran,Ain Biya,IIa
+31,Oran,Ain Kerma,IIa
+31,Oran,Ain Turk,IIa
+31,Oran,Arzew,IIa
+31,Oran,Ben Freha,IIa
+31,Oran,Bethioua,IIa
+31,Oran,Bir El Djir,IIa
+31,Oran,Boufatis,IIa
+31,Oran,Bousfer,IIa
+31,Oran,Boutlelis,IIa
+31,Oran,El Ancor,IIa
+31,Oran,El Braya,IIa
+31,Oran,El Kerma,IIa
+31,Oran,Es Senia,IIa
+31,Oran,Gdyel,IIa
+31,Oran,Hassi Ben Okba,IIa
+31,Oran,Hassi Bounif,IIa
+31,Oran,Hassi Mefsoukh,IIa
+31,Oran,Marsat El Hadjadj,IIa
+31,Oran,Mers El Kebir,IIa
+31,Oran,Messerghin,IIa
+31,Oran,Oran,IIa
+31,Oran,Oued Tlelat,IIa
+31,Oran,Sidi Ben Yebka,IIa
+31,Oran,Sidi Chami,IIa
+31,Oran,Tafraoui,IIa
+32,El Bayadh,Ain El Orak,0
+32,El Bayadh,Arbaouat,0
+32,El Bayadh,Boualem,0
+32,El Bayadh,Bougtoub,0
+32,El Bayadh,Boussemghoun,0
+32,El Bayadh,Brezina,0
+32,El Bayadh,Cheguig,0
+32,El Bayadh,Chellala,0
+32,El Bayadh,El Bayadh,0
+32,El Bayadh,El Bnoud,0
+32,El Bayadh,El Kheiter,0
+32,El Bayadh,El Mehara,0
+32,El Bayadh,Ghassoul,0
+32,El Bayadh,Kef El Ahmar,0
+32,El Bayadh,Krakda,0
+32,El Bayadh,Labiodh Sidi Cheikh,0
+32,El Bayadh,Rogassa,0
+32,El Bayadh,Sidi Ameur,0
+32,El Bayadh,Sidi Slimane,0
+32,El Bayadh,Sidi Tiffour,0
+32,El Bayadh,Stitten,0
+32,El Bayadh,Tousmouline,0
+33,Illizi,Bordj Omar Driss,0
+33,Illizi,Debdeb,0
+33,Illizi,Illizi,0
+33,Illizi,In Amenas,0
+34,Bordj Bou Arreridj,Ain Taghrout,III
+34,Bordj Bou Arreridj,Ain Taghrout,IIa
+34,Bordj Bou Arreridj,Ain Tesra,III
+34,Bordj Bou Arreridj,B. B. Arreridj,III
+34,Bordj Bou Arreridj,Belimour,III
+34,Bordj Bou Arreridj,Belimour,IIa
+34,Bordj Bou Arreridj,Ben Daoud,III
+34,Bordj Bou Arreridj,Ben Daoud,IIb
+34,Bordj Bou Arreridj,Bir Kasdali,III
+34,Bordj Bou Arreridj,Bordj Ghedir,III
+34,Bordj Bou Arreridj,Bordj Ghedir,IIa
+34,Bordj Bou Arreridj,Bordj Zemmoura,III
+34,Bordj Bou Arreridj,Colla,III
+34,Bordj Bou Arreridj,Colla,IIb
+34,Bordj Bou Arreridj,Djaafra,III
+34,Bordj Bou Arreridj,Djaafra,IIb
+34,Bordj Bou Arreridj,El Achir,III
+34,Bordj Bou Arreridj,El Achir,IIb
+34,Bordj Bou Arreridj,El Annasseur,III
+34,Bordj Bou Arreridj,El Annasseur,IIa
+34,Bordj Bou Arreridj,El Euch,III
+34,Bordj Bou Arreridj,El M'hir,III
+34,Bordj Bou Arreridj,El M'hir,IIb
+34,Bordj Bou Arreridj,El Main,III
+34,Bordj Bou Arreridj,El Main,IIb
+34,Bordj Bou Arreridj,Elhammadia,III
+34,Bordj Bou Arreridj,Ghailasa,III
+34,Bordj Bou Arreridj,Ghailasa,IIa
+34,Bordj Bou Arreridj,Haraza,III
+34,Bordj Bou Arreridj,Haraza,IIb
+34,Bordj Bou Arreridj,Hasnaoua,III
+34,Bordj Bou Arreridj,Hasnaoua,IIb
+34,Bordj Bou Arreridj,Khelil,III
+34,Bordj Bou Arreridj,Khelil,IIb
+34,Bordj Bou Arreridj,Ksour,III
+34,Bordj Bou Arreridj,Ksour,IIb
+34,Bordj Bou Arreridj,Mansoura,III
+34,Bordj Bou Arreridj,Mansoura,IIb
+34,Bordj Bou Arreridj,Medjana,III
+34,Bordj Bou Arreridj,Medjana,IIb
+34,Bordj Bou Arreridj,Ouled Brahem,III
+34,Bordj Bou Arreridj,Ouled Brahem,IIa
+34,Bordj Bou Arreridj,Ouled Dahmane,III
+34,Bordj Bou Arreridj,Ouled Sidi-Brahim,III
+34,Bordj Bou Arreridj,Ouled Sidi-Brahim,IIb
+34,Bordj Bou Arreridj,Rabta,III
+34,Bordj Bou Arreridj,Rabta,IIb
+34,Bordj Bou Arreridj,Ras El Oued,III
+34,Bordj Bou Arreridj,Ras El Oued,IIa
+34,Bordj Bou Arreridj,Sidi-Embarek,III
+34,Bordj Bou Arreridj,Sidi-Embarek,IIb
+34,Bordj Bou Arreridj,Taglait,III
+34,Bordj Bou Arreridj,Taglait,IIa
+34,Bordj Bou Arreridj,Tassamert,III
+34,Bordj Bou Arreridj,Tefreg,III
+34,Bordj Bou Arreridj,Tefreg,IIb
+34,Bordj Bou Arreridj,Teniet En Nasr,III
+34,Bordj Bou Arreridj,Teniet En Nasr,IIb
+34,Bordj Bou Arreridj,Tixter,III
+34,Bordj Bou Arreridj,Tixter,IIa
+35,Boumerdès,Afir,III
+35,Boumerdès,Afir,IIb
+35,Boumerdès,Ammal,III
+35,Boumerdès,Ammal,IIa
+35,Boumerdès,Baghlia,III
+35,Boumerdès,Baghlia,IIb
+35,Boumerdès,Ben Choud,III
+35,Boumerdès,Ben Choud,IIb
+35,Boumerdès,Beni Amrane,III
+35,Boumerdès,Beni Amrane,IIb
+35,Boumerdès,Bordj Menaiel,III
+35,Boumerdès,Bordj Menaiel,IIb
+35,Boumerdès,Boudouaou,III
+35,Boumerdès,Boudouaou El Bahri,III
+35,Boumerdès,Boumerdes,III
+35,Boumerdès,Bouzegza Keddara,III
+35,Boumerdès,Bouzegza Keddara,IIb
+35,Boumerdès,Chabet El Ameur,III
+35,Boumerdès,Chabet El Ameur,IIa
+35,Boumerdès,Corso,III
+35,Boumerdès,Dellys,III
+35,Boumerdès,Djinet,III
+35,Boumerdès,El Kharrouba,III
+35,Boumerdès,El Kharrouba,IIb
+35,Boumerdès,Hammedi,III
+35,Boumerdès,Hammedi,IIb
+35,Boumerdès,Isser,III
+35,Boumerdès,Isser,IIb
+35,Boumerdès,Khemis El Khechna,III
+35,Boumerdès,Khemis El Khechna,IIb
+35,Boumerdès,Larbatache,III
+35,Boumerdès,Larbatache,IIb
+35,Boumerdès,Leghata,III
+35,Boumerdès,Naciria,III
+35,Boumerdès,Naciria,IIb
+35,Boumerdès,Ouled Aissa,III
+35,Boumerdès,Ouled Aissa,IIb
+35,Boumerdès,Ouled Hedadj,III
+35,Boumerdès,Ouled Moussa,III
+35,Boumerdès,Ouled Moussa,IIb
+35,Boumerdès,Si Mustapha,III
+35,Boumerdès,Sidi Daoud,III
+35,Boumerdès,Souk El Had,III
+35,Boumerdès,Souk El Had,IIb
+35,Boumerdès,Taourga,III
+35,Boumerdès,Taourga,IIb
+35,Boumerdès,Thenia,III
+35,Boumerdès,Tidjelabine,III
+35,Boumerdès,Timezrit,III
+35,Boumerdès,Timezrit,IIa
+35,Boumerdès,Zemmouri,III

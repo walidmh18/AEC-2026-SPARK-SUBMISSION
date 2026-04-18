@@ -1,0 +1,64 @@
+1,ADRAR,Toutes les communes,0
+8,BECHAR,Toutes les communes,0
+11,TAMENRASSET,Toutes les communes,0
+30,OUARGLA,Toutes les communes,0
+33,ILLIZI,Toutes les communes,0
+37,TINDOUF,Toutes les communes,0
+39,EL OUED,Toutes les communes,0
+47,GHARDAIA,Toutes les communes,0
+32,EL BAYADH,Toutes les communes,I
+3,LAGHOUAT,Toutes les communes,I
+4,OUM EL BOUAGHI,Toutes les communes,I
+5,BATNA,Toutes les communes,I
+7,BISKRA,Toutes les communes,I
+12,TEBESSA,Toutes les communes,I
+13,TLEMCEN,Toutes les communes,I
+14,TIARET,Toutes les communes,I
+17,DJELFA,Toutes les communes,I
+20,SAIDA,Toutes les communes,I
+22,SIDI BEL ABBES,Toutes les communes,I
+26,MEDEA,"Bou Aiche, Chahbounia, Boughzoul, Sareg, Meftaha, Ouled Maref, El Aounet, Ain Boucif, Sidi Damed, Ain Ouksir, Cheniguel",I
+28,M'SILA,Toutes les communes autres que celles figurant au groupe de communes A,I
+29,MASCARA,"Ain Fares, Ain fekran, Bouhanifia,Guerdjou, Oued Taria,Ghris, Benain, Mokhda, Aouf, Gharous, Nesmot, M’hamid,Hachem, Oued El Abtal,Ain Ferrah",I
+40,KHENCHELA,Toutes les communes,I
+41,SOUK AHRAS,Toutes les communes,I
+45,NAAMA,Toutes les communes,I
+2,CHLEF,Groupe C : Ouled Ben Abd El Kader Hadjadj,IIa
+6,BEJAIA,Toutes les communes,IIa
+10,BOUIRA,Toutes les communes,IIa
+15,TIZI OUZOU,Toutes les communes autres que celles figurant au groupe de communes A,IIa
+18,JIJEL,Toutes les communes,IIa
+19,SETIF,Toutes les communes,IIa
+21,SKIKDA,Toutes les communes,IIa
+23,ANNABA,Toutes les communes,IIa
+24,GUELMA,Toutes les communes,IIa
+25,CONSTANTINE,Toutes les communes,IIa
+26,MEDEA,Toutes les communes autres que celles figurant au groupe de communes A et C,IIa
+27,MOSTAGANEM,Toutes les communes autres que celles figurant au groupe de communes A et B,IIa
+28,M'SILA,"Beni Ilmane, Ounougha, Hammam Dalaa, Tarmount, Ouled Mansour, M’sila, M’tarfa, Maadid, Ouled Derradj, Ouled Addi, Dahahna, Berhoum, Ain Kadra, Magra, Belaiba",IIa
+29,MASCARA,Toutes les communes autres que celles figurant au groupe de communes B,IIa
+31,ORAN,Toutes les communes,IIa
+34,BORDJ BOU ARRERIDJ,Toutes les communes,IIa
+35,BOUMERDES,"Groupe C : Timezrit, Ammal, Chaabet El Ameur",IIa
+36,EL TARF,Toutes les communes,IIa
+38,TISSEMSILT,Toutes les communes,IIa
+43,MILA,Toutes les communes,IIa
+44,AIN DEFLA,Toutes les communes autres que celles figurant au groupe de communes A et B,IIa
+46,AIN TEMOUCHENT,Toutes les communes,IIa
+48,RELIZANE,Toutes les communes autres que celles figurant au groupe de communes A et B,IIa
+2,CHLEF,"Groupe B : El karimia, Harchoun, sendjas, Oued sly, Boukadir",IIb
+9,BLIDA,"Groupe B : Meftah, Djebabra, Souhane, Larbaa, Ouled Selama, Bougara, Hammam Melouane, Ain Romana",IIb
+15,TIZI OUZOU,Mizrana,IIb
+26,MEDEA,"El hamdania , Medea, Tamesguida,",IIb
+35,BOUMERDES,"Groupe B : Afir, Benchoud, Taouerga, Baghlia, Oued Aissa, Naciria, Bordj Menail, Isser, Beni Amrane, Souk El Had, Bouzegza Kedar, El Kharouba, Larbatache, Khemis El khechna, Ouled Moussa, Hammadi.",IIb
+44,AIN DEFLA,"El Amra, Mekhtaria, Arib, Rouina, Ain Defla, Bourashed, Zeddine, Tiberkanine, Sen Allah, Meliana, Ain Torki ,Hammam Righa,Ain Benian, Houceinia, Boumadfaa",IIb
+48,RELIZANE,"Merdja Sidi Abed, Oued Rhiou,Ouartzenz, Djidiouia, Hamri, Beni Zentis",IIb
+27,MOSTAGANEM,"Sidi Lakhdar, Tasghait, Ouled Maalah",IIb
+2,CHLEF,Groupe A : Toutes les communes autres que celles figurant au groupe de communes B et C,III
+9,BLIDA,Groupe A : Toutes les communes autres que celles figurant au groupe de communes B,III
+16,ALGER,Toutes les communes,III
+35,BOUMERDES,Groupe A : Toutes les communes autres que celles figurant au groupe de communes B et C,III
+42,TIPAZA,Toutes les communes,III
+44,AIN DEFLA,"Tacheta, Zougagha, El Abadia, Ain Bouyahia, El Attaf",III
+48,RELIZANE,"Mediouna, Sidi M’hamed Ben Ali, Mazouna,El Guettar",III
+27,MOSTAGANEM,"Ouled Boughalem, Achaacha, Khadra, Nekmaria",III
